@@ -23,6 +23,7 @@ Through this project, I have learned:
 ## Acknowledgments
 Thanks to Dr. Angela Yu for the inspiration and guidance through her web development course.
 
+
 The purpose of this is to Understand the DOM manipulation, how DOM works, how we can use JavaScript to change the behavior of our site.
 
 ## Check This Game 
